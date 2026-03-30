@@ -1,2 +1,2 @@
 # scolarhub
-application d gestin et de centralisation
+application de gestion et de centralisation
